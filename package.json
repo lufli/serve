@@ -1,0 +1,9 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "Build and serve simple scripts.",
+  "main": "index.js",
+  "repository": "git@github.com:lufli/serve.git",
+  "author": "Lufan Li",
+  "license": "MIT"
+}
